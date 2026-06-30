@@ -1,0 +1,20 @@
+Spoke with Alice Johnson today. She's currently working as a Senior Data Scientist at TechCorp.
+Based in San Francisco, CA. Claims about 7 years of total experience including internships.
+Strong background in Python and machine learning. Also mentioned experience with Spark and Kubernetes.
+Her email is alice.j.work@gmail.com and cell is 415-555-0199.
+Very interested in the ML platform role. Top candidate.
+
+---
+
+Candidate Bob Smith. Email: bob.smith@company.com. Phone: +1 (212) 555-0102.
+Currently: Backend Engineer at StartupXYZ, New York, NY.
+Skills: Go, Rust, Distributed Systems, gRPC, PostgreSQL. 5+ years exp.
+Education: MS Computer Science, MIT, 2020.
+Strong candidate, good system design skills.
+
+---
+
+Notes for David Lee — no email on file yet. Phone: 408-555-0201.
+Lives in San Jose, CA. Experience with Python, Django, REST APIs.
+About 2 years of experience. Currently a Junior Developer.
+Education: BS Computer Science, 2022. Needs follow-up to get contact email.

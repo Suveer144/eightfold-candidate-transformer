@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.venv/
+venv/
+env/
+# Ignore ad-hoc output by default, but keep the captured demo runs
+# referenced from the README as deliverable evidence.
+output/*.json
+!output/.gitkeep
+!output/real_profile_default.json
+!output/real_profile_reshaped.json
+!output/sample_fictional_default.json
+SESSION_HANDOFF.md

@@ -1,0 +1,211 @@
+{
+  "candidates": [
+    {
+      "candidate_id": "C05246377247A",
+      "full_name": "Suveer Agarwala",
+      "emails": [
+        "suveer.agarwala@gmail.com"
+      ],
+      "phones": [
+        "+917414872335"
+      ],
+      "location": {
+        "city": "Manipal",
+        "region": "Karnataka",
+        "country": "IN"
+      },
+      "links": {
+        "linkedin": null,
+        "github": "https://github.com/Suveer144",
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "years_experience": null,
+      "skills": [
+        {
+          "name": "Python",
+          "confidence": 1.0,
+          "sources": [
+            "crm",
+            "github",
+            "notes"
+          ]
+        },
+        {
+          "name": "Machine Learning",
+          "confidence": 0.75,
+          "sources": [
+            "notes"
+          ]
+        },
+        {
+          "name": "LangChain",
+          "confidence": 0.75,
+          "sources": [
+            "notes"
+          ]
+        },
+        {
+          "name": "RAG pipelines",
+          "confidence": 0.75,
+          "sources": [
+            "notes"
+          ]
+        },
+        {
+          "name": "C#",
+          "confidence": 1.0,
+          "sources": [
+            "crm",
+            "github"
+          ]
+        },
+        {
+          "name": "Java",
+          "confidence": 1.0,
+          "sources": [
+            "crm",
+            "github"
+          ]
+        },
+        {
+          "name": "HTML",
+          "confidence": 0.5,
+          "sources": [
+            "github"
+          ]
+        },
+        {
+          "name": "JavaScript",
+          "confidence": 1.0,
+          "sources": [
+            "crm",
+            "github"
+          ]
+        },
+        {
+          "name": "SQL",
+          "confidence": 0.9,
+          "sources": [
+            "crm"
+          ]
+        },
+        {
+          "name": "C",
+          "confidence": 0.9,
+          "sources": [
+            "crm"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "Curavolv",
+          "title": "AI and Software Development Intern",
+          "start": null,
+          "end": null,
+          "summary": null
+        }
+      ],
+      "education": [
+        {
+          "institution": "Manipal Institute of Technology",
+          "degree": "B.Tech",
+          "field": "Information Technology",
+          "end_year": 2027
+        }
+      ],
+      "provenance": [
+        {
+          "field": "full_name",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "location",
+          "source": "crm",
+          "method": "normalized"
+        },
+        {
+          "field": "emails",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "emails",
+          "source": "github",
+          "method": "supplied"
+        },
+        {
+          "field": "emails",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "phones",
+          "source": "notes",
+          "method": "normalized"
+        },
+        {
+          "field": "phones",
+          "source": "crm",
+          "method": "normalized"
+        },
+        {
+          "field": "skills",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "skills",
+          "source": "github",
+          "method": "inferred"
+        },
+        {
+          "field": "skills",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "experience",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "experience",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "education",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "education",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "links.github",
+          "source": "github",
+          "method": "stated"
+        }
+      ],
+      "overall_confidence": 0.85
+    }
+  ],
+  "invalid_candidates": [],
+  "meta": {
+    "processed_at": "2026-06-30T16:52:20.528057+00:00",
+    "sources_used": [
+      "crm",
+      "notes",
+      "github"
+    ],
+    "total_candidates": 1,
+    "invalid_candidate_count": 0,
+    "low_confidence_count": 0
+  }
+}

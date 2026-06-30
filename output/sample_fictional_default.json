@@ -1,0 +1,512 @@
+{
+  "candidates": [
+    {
+      "candidate_id": "C57765F50585D",
+      "full_name": "Alice Johnson",
+      "emails": [
+        "alice.j.work@gmail.com",
+        "alice.johnson@email.com"
+      ],
+      "phones": [
+        "+14155550199",
+        "+14155550101"
+      ],
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "country": "US"
+      },
+      "links": {
+        "linkedin": null,
+        "github": null,
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "years_experience": 5.0,
+      "skills": [
+        {
+          "name": "Python",
+          "confidence": 1.0,
+          "sources": [
+            "crm",
+            "notes"
+          ]
+        },
+        {
+          "name": "Machine Learning",
+          "confidence": 1.0,
+          "sources": [
+            "crm",
+            "notes"
+          ]
+        },
+        {
+          "name": "Spark",
+          "confidence": 0.75,
+          "sources": [
+            "notes"
+          ]
+        },
+        {
+          "name": "Kubernetes",
+          "confidence": 0.75,
+          "sources": [
+            "notes"
+          ]
+        },
+        {
+          "name": "SQL",
+          "confidence": 0.9,
+          "sources": [
+            "crm"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "TechCorp",
+          "title": "Data Scientist",
+          "start": null,
+          "end": null,
+          "summary": null
+        }
+      ],
+      "education": [
+        {
+          "institution": "UC Berkeley",
+          "degree": "BS",
+          "field": "Computer Science",
+          "end_year": 2019
+        }
+      ],
+      "provenance": [
+        {
+          "field": "full_name",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "location",
+          "source": "crm",
+          "method": "normalized"
+        },
+        {
+          "field": "years_experience",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "emails",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "emails",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "phones",
+          "source": "notes",
+          "method": "normalized"
+        },
+        {
+          "field": "phones",
+          "source": "crm",
+          "method": "normalized"
+        },
+        {
+          "field": "skills",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "skills",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "experience",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "experience",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "education",
+          "source": "crm",
+          "method": "stated"
+        }
+      ],
+      "overall_confidence": 0.9
+    },
+    {
+      "candidate_id": "C5970BA621804",
+      "full_name": "Bob Smith",
+      "emails": [
+        "bob.smith@company.com"
+      ],
+      "phones": [
+        "+12125550102"
+      ],
+      "location": {
+        "city": "New York",
+        "region": "NY",
+        "country": "US"
+      },
+      "links": {
+        "linkedin": null,
+        "github": null,
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "years_experience": 4.0,
+      "skills": [
+        {
+          "name": "Go",
+          "confidence": 1.0,
+          "sources": [
+            "crm",
+            "notes"
+          ]
+        },
+        {
+          "name": "Rust",
+          "confidence": 1.0,
+          "sources": [
+            "crm",
+            "notes"
+          ]
+        },
+        {
+          "name": "Distributed Systems",
+          "confidence": 1.0,
+          "sources": [
+            "crm",
+            "notes"
+          ]
+        },
+        {
+          "name": "gRPC",
+          "confidence": 0.75,
+          "sources": [
+            "notes"
+          ]
+        },
+        {
+          "name": "PostgreSQL",
+          "confidence": 0.75,
+          "sources": [
+            "notes"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "StartupXYZ",
+          "title": "Backend Engineer",
+          "start": null,
+          "end": null,
+          "summary": null
+        }
+      ],
+      "education": [
+        {
+          "institution": "MIT",
+          "degree": "MS",
+          "field": "Computer Science",
+          "end_year": 2020
+        }
+      ],
+      "provenance": [
+        {
+          "field": "full_name",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "location",
+          "source": "crm",
+          "method": "normalized"
+        },
+        {
+          "field": "years_experience",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "emails",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "emails",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "phones",
+          "source": "notes",
+          "method": "normalized"
+        },
+        {
+          "field": "phones",
+          "source": "crm",
+          "method": "normalized"
+        },
+        {
+          "field": "skills",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "skills",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "experience",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "experience",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "education",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "education",
+          "source": "crm",
+          "method": "stated"
+        }
+      ],
+      "overall_confidence": 0.95
+    },
+    {
+      "candidate_id": "CF481AA100ACF",
+      "full_name": "Carol Chen",
+      "emails": [
+        "carol.chen@startup.io"
+      ],
+      "phones": [
+        "+16505550103"
+      ],
+      "location": {
+        "city": "Palo Alto",
+        "region": "CA",
+        "country": "US"
+      },
+      "links": {
+        "linkedin": null,
+        "github": null,
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "years_experience": 3.0,
+      "skills": [
+        {
+          "name": "React",
+          "confidence": 0.9,
+          "sources": [
+            "crm"
+          ]
+        },
+        {
+          "name": "TypeScript",
+          "confidence": 0.9,
+          "sources": [
+            "crm"
+          ]
+        },
+        {
+          "name": "GraphQL",
+          "confidence": 0.9,
+          "sources": [
+            "crm"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "DesignCo",
+          "title": "Frontend Engineer",
+          "start": null,
+          "end": null,
+          "summary": null
+        }
+      ],
+      "education": [
+        {
+          "institution": "Stanford",
+          "degree": "BS",
+          "field": "Software Engineering",
+          "end_year": 2021
+        }
+      ],
+      "provenance": [
+        {
+          "field": "full_name",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "location",
+          "source": "crm",
+          "method": "normalized"
+        },
+        {
+          "field": "years_experience",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "emails",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "phones",
+          "source": "crm",
+          "method": "normalized"
+        },
+        {
+          "field": "skills",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "experience",
+          "source": "crm",
+          "method": "stated"
+        },
+        {
+          "field": "education",
+          "source": "crm",
+          "method": "stated"
+        }
+      ],
+      "overall_confidence": 1.0
+    },
+    {
+      "candidate_id": "C85628582C8F8",
+      "full_name": "David Lee",
+      "emails": [],
+      "phones": [
+        "+14085550201"
+      ],
+      "location": {
+        "city": "San Jose",
+        "region": "CA",
+        "country": "US"
+      },
+      "links": {
+        "linkedin": null,
+        "github": null,
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "years_experience": 2.0,
+      "skills": [
+        {
+          "name": "Python",
+          "confidence": 0.75,
+          "sources": [
+            "notes"
+          ]
+        },
+        {
+          "name": "Django",
+          "confidence": 0.75,
+          "sources": [
+            "notes"
+          ]
+        },
+        {
+          "name": "REST APIs",
+          "confidence": 0.75,
+          "sources": [
+            "notes"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": null,
+          "title": "Junior Developer",
+          "start": null,
+          "end": null,
+          "summary": null
+        }
+      ],
+      "education": [
+        {
+          "institution": null,
+          "degree": "BS",
+          "field": "Computer Science",
+          "end_year": 2022
+        }
+      ],
+      "provenance": [
+        {
+          "field": "full_name",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "location",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "years_experience",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "phones",
+          "source": "notes",
+          "method": "normalized"
+        },
+        {
+          "field": "skills",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "experience",
+          "source": "notes",
+          "method": "extracted"
+        },
+        {
+          "field": "education",
+          "source": "notes",
+          "method": "extracted"
+        }
+      ],
+      "overall_confidence": 0.8
+    }
+  ],
+  "invalid_candidates": [],
+  "meta": {
+    "processed_at": "2026-06-30T16:10:54.641920+00:00",
+    "sources_used": [
+      "crm",
+      "notes"
+    ],
+    "total_candidates": 4,
+    "invalid_candidate_count": 0,
+    "low_confidence_count": 0
+  }
+}

@@ -1,0 +1,4 @@
+name,email,phone,city,region,country,skills,years_experience,current_company,title,education_institution,education_degree,education_field,education_year
+Alice Johnson,alice.johnson@email.com,(415) 555-0101,San Francisco,CA,US,"Python,Machine Learning,SQL",5,TechCorp,Data Scientist,UC Berkeley,BS,Computer Science,2019
+Bob Smith,bob.smith@company.com,(212) 555-0102,New York,NY,US,"Go,Rust,Distributed Systems",4,StartupXYZ,Backend Engineer,MIT,MS,Computer Science,2020
+Carol Chen,carol.chen@startup.io,(650) 555-0103,Palo Alto,CA,US,"React,TypeScript,GraphQL",3,DesignCo,Frontend Engineer,Stanford,BS,Software Engineering,2021
